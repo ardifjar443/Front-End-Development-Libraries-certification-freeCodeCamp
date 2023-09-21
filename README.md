@@ -1,7 +1,7 @@
 # Front End Development Libraries Projects FreeCodeCamp
-source code in codepen open [mycodepen](https://codepen.io/ardi-fajar-arifin)
+source code in CodePen open <a href = "https://codepen.io/ardi-fajar-arifin" target="_black"> MyCodePen</a>
 <br>
-My [certificate](https://www.freecodecamp.org/certification/ardifjar443/front-end-development-libraries)
+My <a href = "https://www.freecodecamp.org/certification/ardifjar443/front-end-development-libraries" target="_black">Certificate</a>
 <br>
 list certification:
 - Random Quotes Machine
