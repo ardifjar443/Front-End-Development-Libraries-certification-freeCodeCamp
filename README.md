@@ -4,7 +4,7 @@
 
 source code in CodePen open <a href = "https://codepen.io/ardi-fajar-arifin" target="_black"> MyCodePen</a>
 <br>
-My <a href = "https://www.freecodecamp.org/certification/ardifjar443/front-end-development-libraries" target="_black">Certificate</a>
+<a href = "https://www.freecodecamp.org/certification/ardifjar443/front-end-development-libraries" target="_black">My Certificate</a>
 <br>
 list certification:
 - Random Quotes Machine
